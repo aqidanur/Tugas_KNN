@@ -1,0 +1,2 @@
+# Tugas_KNN
+KKN OUTPUT AND SCRIPT
